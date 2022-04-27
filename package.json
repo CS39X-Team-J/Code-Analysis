@@ -1,0 +1,16 @@
+{
+  "name": "analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Feikema",
+  "license": "ISC",
+  "dependencies": {
+    "@lezer/python": "^0.15.1"
+  },
+  "type": "module"
+}
+
